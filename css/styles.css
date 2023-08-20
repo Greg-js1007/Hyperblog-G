@@ -47,6 +47,10 @@ font-size: 0.8em;
     background: white;
     padding: 20px;
 }
+#post p img{
+    width: 700px;
+    height: auto;
+}
 footer{
     background: #777;
     color: white;
